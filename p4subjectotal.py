@@ -1,0 +1,5 @@
+eng=int(input("Enter marks of english ->"))
+maths=int(input("Enter marks of maths =>"))
+ss=int(input("Emnter marks of ss =>"))
+print("total = ",maths+ss+eng)
+print("Average = ",(maths+ss+eng)/3)

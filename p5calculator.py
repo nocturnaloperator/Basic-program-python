@@ -1,0 +1,6 @@
+no1=int(input("Enter no1 =>"))
+no2=int(input("Enter no2 =>"))
+print("add= ",no1+no2)
+print("subtratc =", no1-no2)
+print("multiply =",no1*no2)
+print ("divide = ", no1/no2)
